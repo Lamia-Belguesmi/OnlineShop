@@ -1,5 +1,6 @@
 # online_shop
 
+![Online_Shop](https://user-images.githubusercontent.com/65131757/191999790-e6387c9a-bc4e-4ea2-8219-7ba4020ea419.gif)
 
 
 ## Getting Started
